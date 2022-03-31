@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ESNEXT",
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "./dist",
+        "strict": true
+    },
+    "tsBuildInfoFile": "dist/.tsbuildinfo",
+    "include": ["src"]
+}
